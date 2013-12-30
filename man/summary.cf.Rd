@@ -5,7 +5,7 @@
   This function gives summary for each step in cash flow model.
 }
 \usage{
-summary.cf(object, flows = 2:length(object$cf), ...)
+\method{summary}{cf}(object, flows = 2:length(object$cf), ...)
 }
 \arguments{
   \item{object}{ an object of "cf" class, created using \code{\link{cf}}.}

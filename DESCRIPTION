@@ -1,14 +1,15 @@
 Package: financial
-Version: 0.1
-Date: 2006-04-09
+Version: 0.2
+Date: 2013-12-30
 Title: Solving financial problems in R
-Author: Lukasz Komsta <luke@novum.am.lublin.pl>
-Maintainer: Lukasz Komsta <luke@novum.am.lublin.pl>
+Author: Lukasz Komsta <lukasz.komsta@umlub.pl>
+Maintainer: Lukasz Komsta <lukasz.komsta@umlub.pl>
 Depends: R (>= 2.0)
 Description: Time value of money, cash flows and other financial
         functions.
 License: GPL (>= 2)
 URL: http://www.r-project.org, http://www.komsta.net/
-Packaged: 2012-10-29 08:58:45 UTC; ripley
+Packaged: 2013-12-30 10:27:21 UTC; luke
 Repository: CRAN
-Date/Publication: 2012-10-29 08:58:45
+Date/Publication: 2013-12-30 11:44:34
+NeedsCompilation: no

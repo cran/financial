@@ -7,7 +7,7 @@
 
 }
 \usage{
-plot.cf(x, type = c("bar", "npv"), ...)
+\method{plot}{cf}(x, type = c("bar", "npv"), ...)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{

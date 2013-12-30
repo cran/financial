@@ -5,7 +5,7 @@
   Makes bar plots of TVM models.
 }
 \usage{
-plot.tvm(x, row = 1, ...)
+\method{plot}{tvm}(x, row = 1, ...)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{

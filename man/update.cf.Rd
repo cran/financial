@@ -5,7 +5,7 @@
   This function changes some data in cash flow model and recalculates it.
 }
 \usage{
-update.cf(object, flows = NULL, i = NULL, safe = NULL, rein = NULL, ...)
+\method{update}{cf}(object, flows = NULL, i = NULL, safe = NULL, rein = NULL, ...)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{

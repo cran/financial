@@ -5,7 +5,8 @@
    Changes something declared in TVM model and recalculates NA values.
 }
 \usage{
-update.tvm(object, i = NULL, n = NULL, pv = NULL, fv = NULL, pmt = NULL, days = NULL, adv = NULL, pyr = NULL, cyr = NULL, ...)
+\method{update}{tvm}(object, i = NULL, n = NULL, pv = NULL, fv = NULL, pmt = NULL,
+	 days = NULL, adv = NULL, pyr = NULL, cyr = NULL, ...)
 }
 \arguments{
   \item{object}{ an object of "tvm" class used to update. }

@@ -5,7 +5,7 @@
 	Prints amortization table of TVM model.
 }
 \usage{
-summary.tvm(object, row = 1, ...)
+\method{summary}{tvm}(object, row = 1, ...)
 }
 \arguments{
   \item{object}{ an object of class "tvm", created by \code{\link{tvm}} }
